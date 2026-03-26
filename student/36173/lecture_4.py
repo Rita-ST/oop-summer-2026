@@ -1,5 +1,9 @@
-#lecture 4 
+#lecture 4 ...
+#.....
+LECTURE="requst "
+this_is_my_pull_requst=36173
 r=4
+
 students=[24342,3454,34323]
 for x in students:
     print(x)
