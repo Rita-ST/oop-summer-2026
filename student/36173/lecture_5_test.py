@@ -1,4 +1,8 @@
-#creating class and objects 
+#a)
+# 
+# 
+# 
+# #creating class and objects 
 class Chair:
     wheels = 4
 
@@ -14,3 +18,10 @@ chair4=Chair("desk3","red",2022)
 print(chair1.description())
 print(chair2.colour)
 print(chair4.description())
+print(chair4.wheels)
+
+class Country:
+    pass 
+class Students:
+    year = "2025/2026"
+    def __init__(self,student_id)
